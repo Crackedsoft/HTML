@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Dudaman</title>
+</head>
+
+<body>
+    <h1>ABOUT ME</h1>
+    <p>
+        <u><mark>Musician\Producer\DJ\MC since 2008.
+            A drum&bass culture made who I am now.
+        </mark>
+        </u>
+    </p>
+    <img src="img/Dudaman Cover.jpg" alt="duda">
+<hr>
+    <h2>Genres</h2>
+    <nav>
+        <ul type="square">
+            <li>DNB</li>
+            <li>Dubstep</li>
+            <li>Heavy Metal</li>
+            <li>Rap</li>
+            <li>Techno</li>
+        </ul>
+            
+    </nav>
+        
+<hr>
+    
+
+    <h3>Links</h3>
+    <ul>   
+        <li> <a href="https://www.facebook.com/Dudaman69"> facebook</a></li>
+        <li> <a href="https://soundcloud.com/dj-dudaman"> soundcloud</a></li>
+        <li> <a href="https://www.mixcloud.com/Dudaman/"> mixcloud</a></li>
+    </ul>
+ <hr>   
+    <h4>Listen</h4>
+    <ul>
+        <li><iframe width="50%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/954614488&color=%231b53db&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dj-dudaman" title="Dudaman" target="_blank" style="color: #cccccc; text-decoration: none;">Dudaman</a> · <a href="https://soundcloud.com/dj-dudaman/dudaman-takali-coronavirus" title="Dudaman Tackling Coronavirus" target="_blank" style="color: #cccccc; text-decoration: none;">Dudaman Tackling Coronavirus</a></div>
+        </li>
+        <li><iframe width="50%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/979841965&color=%231bdbd9&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dj-dudaman" title="Dudaman" target="_blank" style="color: #cccccc; text-decoration: none;">Dudaman</a> · <a href="https://soundcloud.com/dj-dudaman/dudaman-winter-special-urban-bedroom-mega-shitty-mix" title="Dudaman - Winter Special Urban Mega Bedroom Shitty Mix)" target="_blank" style="color: #cccccc; text-decoration: none;">Dudaman - Winter Special Urban Mega Bedroom Shitty Mix)</a></div>
+        </li>
+        <li><iframe width="50%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/388361507&color=%231bdb20&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dj-dudaman" title="Dudaman" target="_blank" style="color: #cccccc; text-decoration: none;">Dudaman</a> · <a href="https://soundcloud.com/dj-dudaman/kanava-zakhd" title="Канава-Захід" target="_blank" style="color: #cccccc; text-decoration: none;">Канава-Захід</a></div>
+        </li>
+
+
+    </ul>
+<hr>
+    <h4>Video</h4>
+    <ol>
+        <li><iframe width="560" height="315" src="https://www.youtube.com/embed/qbUIuSbv51A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </li>
+        <li><iframe width="560" height="315" src="https://www.youtube.com/embed/W8h-psrx5HU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </li>
+    </ol>
+
+    <h5>P.S.</h5>
+    
+    <p>
+        <img src="img/MUSICIAN.png" alt="">
+        <b>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam recusandae facilis cum minima voluptatem deleniti necessitatibus a laboriosam maxime similique sint, nobis, maiores ut odio, aliquam laborum quos quam debitis!
+
+        </b>
+    
+    </p>
+
+    <footer>
+        <p>made by &#64; Dudaman69</p>
+    </footer>
+</body>
+
+</html>
